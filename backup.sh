@@ -33,8 +33,6 @@ yesterdayTS=$(($currentTS - 24 * 60 * 60))
   # 2: Create the backup file
   # 3: Move the backup file to the destination directory
 
-# To make things easier, we will define some useful variables...
-
 # define variable of original path
 # go into the target directory
 # define variable of destination path
